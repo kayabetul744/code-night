@@ -1,0 +1,10 @@
+Improve navigation and login flow, preventing runtime errors
+
+Address `removeChild` errors in Navbar and LoginPage by adding keys to conditional rendering branches and deferring navigation after login.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: d4587a2d-aeb2-492f-b4f4-4e519ab65347
+Replit-Commit-Checkpoint-Type: full_checkpoint
+Replit-Commit-Event-Id: 952cd369-7c83-4b11-a9ba-3656fa606c31
+Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/6b820082-c856-4c3d-8ca4-63b1cb566288/d4587a2d-aeb2-492f-b4f4-4e519ab65347/k7ir0Ov
+Replit-Helium-Checkpoint-Created: true
